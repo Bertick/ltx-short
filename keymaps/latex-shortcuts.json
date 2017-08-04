@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor[data-grammar~=\"latex\"]": {
     "ctrl-l ctrl-b": "latex-shortcuts:wrap-in-bold",
     "ctrl-l ctrl-e": "latex-shortcuts:wrap-in-emph",
     "ctrl-l ctrl-c": "latex-shortcuts:wrap-in-command",
