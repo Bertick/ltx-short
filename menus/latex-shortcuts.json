@@ -1,0 +1,38 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "latex-shortcuts",
+          "submenu": [
+            {
+              "label": "wrap in bold",
+              "command": "latex-shortcuts:wrap-in-bold"
+            },
+            {
+              "label": "wrap in emph",
+              "command": "latex-shortcuts:wrap-in-emph"
+            },
+            {
+              "label": "wrap in command",
+              "command": "latex-shortcuts:wrap-in-command"
+            },
+            {
+              "label": "wrap in environment",
+              "command": "latex-shortcuts:wrap-in-environment"
+            },
+            {
+              "label": "wrap in equation",
+              "command": "latex-shortcuts:wrap-in-equation"
+            },
+            {
+              "label": "insert environment",
+              "command": "latex-shortcuts:insert-environment"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

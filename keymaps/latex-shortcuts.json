@@ -1,0 +1,10 @@
+{
+  "atom-workspace": {
+    "ctrl-l ctrl-b": "latex-shortcuts:wrap-in-bold",
+    "ctrl-l ctrl-e": "latex-shortcuts:wrap-in-emph",
+    "ctrl-l ctrl-c": "latex-shortcuts:wrap-in-command",
+    "ctrl-l ctrl-n": "latex-shortcuts:wrap-in-environment",
+    "ctrl-l ctrl-q": "latex-shortcuts:wrap-in-equation",
+    "ctrl-l e": "latex-shortcuts:insert-environment"
+  }
+}
