@@ -1,5 +1,5 @@
 {
-  "name": "latex-shortcuts",
+  "name": "ltx-short",
   "main": "./lib/latex-shortcuts",
   "version": "0.1.0",
   "description": "Shortcuts for selection wrapping in latex",
