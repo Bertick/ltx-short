@@ -2,11 +2,11 @@
   "name": "latex-shortcuts",
   "main": "./lib/latex-shortcuts",
   "version": "0.1.0",
-  "description": "NYET",
+  "description": "Shortcuts for selection wrapping in latex",
   "keywords": [
   ],
   "activationHooks": ["language-latex:grammar-used"],
-  "repository": "https://github.com/NYET",
+  "repository": "https://github.com/Bertick/ltx-short",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
