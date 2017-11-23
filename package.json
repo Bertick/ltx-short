@@ -3,14 +3,19 @@
   "main": "./lib/latex-shortcuts",
   "version": "0.1.0",
   "description": "Shortcuts for selection wrapping in latex",
-  "keywords": [
+  "keywords": [],
+  "activationHooks": [
+    "language-latex:grammar-used"
   ],
-  "activationHooks": ["language-latex:grammar-used"],
   "repository": "https://github.com/Bertick/ltx-short",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "apmInstallSource": {
+    "type": "git",
+    "source": "https://github.com/Bertick/ltx-short.git",
+    "sha": "3288ef39335d0aeda41502f7b9ac1c695bfa38ce"
   }
 }
